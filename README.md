@@ -1,5 +1,16 @@
-# Awesome-Telegram-Bots
-A fan made repository based off of the Awesome Lists for Telegram Bots
+Awesome Websites
+===
+[![Buy me a coffee](https://img.shields.io/badge/Buy%20me%20a%20coffee-048754?logo=buymeacoffee)](buymeacoffee.com/luhh)
+[![Awesome](https://jaywcjlove.github.io/sb/ico/awesome.svg)](https://github.com/sindresorhus/awesome)
+
+----
+## **(NOT THE OFFICIAL AWESOME LIST)** 
+
+I have listed useful, or fun websites that make the internet a hell of a lot easier and entertaining.
+
+***If you find this repository useful, feel free to leave a star!***
+
+***By leaving a star, GitHub recommends this repository to more people. It also helps out me, and the repository a lot!***
 
 | Bot Link | Description |
 | -------- | ----------- |
