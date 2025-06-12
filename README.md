@@ -1,4 +1,4 @@
-Awesome Websites
+Awesome Telegram Bots
 ===
 [![Buy me a coffee](https://img.shields.io/badge/Buy%20me%20a%20coffee-048754?logo=buymeacoffee)](buymeacoffee.com/luhh)
 [![Awesome](https://jaywcjlove.github.io/sb/ico/awesome.svg)](https://github.com/sindresorhus/awesome)
